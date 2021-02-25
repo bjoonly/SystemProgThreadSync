@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\SystemProgThreadSync\SystemProgThreadSync\bin\Debug\SystemProgThreadSync.exe.config
+C:\Users\Admin\source\repos\SystemProgThreadSync\SystemProgThreadSync\bin\Debug\SystemProgThreadSync.exe
+C:\Users\Admin\source\repos\SystemProgThreadSync\SystemProgThreadSync\bin\Debug\SystemProgThreadSync.pdb
+C:\Users\Admin\source\repos\SystemProgThreadSync\SystemProgThreadSync\obj\Debug\SystemProgThreadSync.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SystemProgThreadSync\SystemProgThreadSync\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\SystemProgThreadSync\SystemProgThreadSync\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\SystemProgThreadSync\SystemProgThreadSync\obj\Debug\SystemProgThreadSync_MarkupCompile.cache
+C:\Users\Admin\source\repos\SystemProgThreadSync\SystemProgThreadSync\obj\Debug\SystemProgThreadSync_MarkupCompile.lref
+C:\Users\Admin\source\repos\SystemProgThreadSync\SystemProgThreadSync\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\SystemProgThreadSync\SystemProgThreadSync\obj\Debug\SystemProgThreadSync.g.resources
+C:\Users\Admin\source\repos\SystemProgThreadSync\SystemProgThreadSync\obj\Debug\SystemProgThreadSync.Properties.Resources.resources
+C:\Users\Admin\source\repos\SystemProgThreadSync\SystemProgThreadSync\obj\Debug\SystemProgThreadSync.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SystemProgThreadSync\SystemProgThreadSync\obj\Debug\SystemProgThreadSync.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SystemProgThreadSync\SystemProgThreadSync\obj\Debug\SystemProgThreadSync.exe
+C:\Users\Admin\source\repos\SystemProgThreadSync\SystemProgThreadSync\obj\Debug\SystemProgThreadSync.pdb
